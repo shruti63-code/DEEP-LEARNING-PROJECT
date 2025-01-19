@@ -106,5 +106,3 @@ A deep learning project involves designing, developing, and deploying machine le
 5. **Autonomous Systems**: Self-driving cars, drones.
 
 ---
-
-Would you like assistance with a specific deep learning use case, or help with implementing and deploying a deep learning project?
